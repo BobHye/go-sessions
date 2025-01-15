@@ -1,4 +1,4 @@
-module github.com/gin-contrib/sessions
+module github.com/BobHye/go-sessions
 
 go 1.22
 
